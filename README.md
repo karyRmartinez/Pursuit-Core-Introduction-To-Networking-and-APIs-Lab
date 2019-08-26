@@ -8,6 +8,8 @@ Use Postman to find each of the following HTTP codes:
 
 
 1. 200
+-  https://evilinsult.com/api/
+- succesful HTTP request
 1. 301
 1. 400
 1. 401
